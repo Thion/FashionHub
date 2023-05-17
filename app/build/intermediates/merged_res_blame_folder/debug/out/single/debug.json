@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_rounded_textviews.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/rounded_textviews.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_callcentre.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/callcentre.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_app_main_logo.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/app_main_logo.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_jackets_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_jackets_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_category.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_aboutus.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_aboutus.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_others_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_others_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_back_img.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/back_img.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_slide_item_container.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/slide_item_container.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_contact_us.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/contact_us.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_shirts.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_shirts.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_item_products.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_products.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_clothes_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_clothes_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/menu_bottom_menu.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_item_image.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_person.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_product_item.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_nguo.jpeg.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/nguo.jpeg"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_canvas.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/canvas.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_email.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_register.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_help.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_backg_mainactivity.png.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/backg_mainactivity.png"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/xml_automotive_app_desc.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_share.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_item_list_item.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_list_item.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_products.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_products.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_contact_us.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_add_picture.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/add_picture.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_logout.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_dresses_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_dresses_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_show_password.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/show_password.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_home.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.formosafashionhub.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_shop.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_shop.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_sportswear_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_sportswear_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/drawable_ic_phonecall.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/drawable/ic_phonecall.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_splash.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_trousers_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_trousers_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_shirts_upload.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_shirts_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_login.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_categories.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_categories.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_about_us.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-39:/layout_activity_admin.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_admin.xml"
+    }
+]

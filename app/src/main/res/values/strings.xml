@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formosa Fashion Hub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="price_format">%1$.2f USD</string>
+    <string name="quality_assuarance">The Fashion Hub is a a</string>
+</resources>

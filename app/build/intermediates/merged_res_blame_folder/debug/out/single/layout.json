@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_products.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_products.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_register.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_jackets_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_jackets_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_others_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_others_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_about_us.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/item_image.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_clothes_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_clothes_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/item_list_item.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_list_item.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_shirts_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_shirts_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_admin.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_sportswear_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_sportswear_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_splash.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_contact_us.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/product_item.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/slide_item_container.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/slide_item_container.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_trousers_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_trousers_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/item_products.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/item_products.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_dresses_upload.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_dresses_upload.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_categories.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_categories.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-38:/layout/activity_shirts.xml",
+        "source": "com.example.formosafashionhub.app-main-41:/layout/activity_shirts.xml"
+    }
+]
